@@ -1,6 +1,6 @@
 <h1>Snitch Alarm: A House Break-In Silent Alarm Using Raspberry Pi 3 </h1>
  
- 
+ ![intro](https://github.com/elbertcl/L6AC-even-3-snitchalarm/blob/master/img/intro.jpg)
  
 <center>Group 3</center> <br>
 Project Report <br>
@@ -42,7 +42,7 @@ Breadboard (1 pc)<br>
 <h2>HOW DOES IT WORK? </h2>
 Our program works by sending a notification to the user (house owner) should a stranger enters the house. Moreover, the system can also detect if the user is the one who opens the door, by using Bluetooth sensor detection.
  <br>
-First, we programed and compiled all of the required codes in the Raspberry Pi system. The Python code will be explained in detail in the later section. Next, we connect the Raspberry Pi into a Breadboard, which will be connected via cables into the magnetic sensors. The magnetic sensors are then attached to the user’s front house door. Please do keep in mind that the Raspberry Pi need to always be connected to the internet in order to function properly. 
+First, we programmed and compiled all of the required codes in the Raspberry Pi system. The Python code will be explained in detail in the later section. Next, we connect the Raspberry Pi into a Breadboard, which will be connected via cables into the magnetic sensors. The magnetic sensors are then attached to the user’s front house door. Please do keep in mind that the Raspberry Pi need to always be connected to the internet in order to function properly. 
  <br>
 Since we assume that the user will always carry their personal smartphone device, if the user’s smartphone Bluetooth is on the parameter with the Raspberry Pi, the system will detect the user as the house owner, thus will not give an alert.
  <br>
@@ -59,7 +59,7 @@ Connect the magnetic sensor to the Raspberry Pi as follows:<br>
 Pin 8 on the Magnetic Sensor to ground (#6 in our case) on the Raspberry Pi 3.<br>
 Pin 10 on the Magnetic Sensor to GPIO18 (#12) on the Raspberry Pi 3.<br>
  
-
+![circuit](https://github.com/elbertcl/L6AC-even-3-snitchalarm/blob/master/img/circuit.png)
  
  
  
