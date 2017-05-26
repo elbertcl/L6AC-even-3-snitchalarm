@@ -1,8 +1,8 @@
-#Snitch Alarm: A House Break-In Silent Alarm Using Raspberry Pi 3 <br>
+<h1>Snitch Alarm: A House Break-In Silent Alarm Using Raspberry Pi 3 </h1>
  
  
  
-Group 3 <br>
+<center>Group 3</center> <br>
 Project Report <br>
  
  
@@ -71,7 +71,7 @@ Pin 10 on the Magnetic Sensor to GPIO18 (#12) on the Raspberry Pi 3.<br>
  
 
 <h1> INDIVIDUAL WEEKLY PROGRESS: </h1>
-Elbert Christopher Larosa - 1801442464<br>
+<b>Elbert Christopher Larosa - 1801442464</b><br>
 Week 1: <br>
 In the first meeting, we are asked to think individually of ideas for the final project's topic. Initially, I got the general idea of using a sensor for detecting student coming into the class and thus being able to do absent from that sensor; an idea that is developed from a team that have been assembled together by ourselves at that time. Later on, the idea that I use change as the team is eventually predefined, in which the idea that is actually used is the home break-in silent alarm.
 Week 2: <br>
