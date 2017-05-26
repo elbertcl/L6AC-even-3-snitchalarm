@@ -57,10 +57,10 @@ From then on, the user can call the local security or his neighbor to help him c
 <h2>CIRCUIT DIAGRAM</h2>
 Connect the magnetic sensor to the Raspberry Pi as follows:<br>
 Pin 8 on the Magnetic Sensor to ground (#6 in our case) on the Raspberry Pi 3.<br>
-Pin 10 on the Magnetic Sensor to GPIO18 (#12) on the Raspberry Pi 3.<br>
+Pin 10 on the Magnetic Sensor to GPIO18 (#12) on the Raspberry Pi 3.<br><br>
  
 ![circuit](https://github.com/elbertcl/L6AC-even-3-snitchalarm/blob/master/img/circuit.png)
- <br>
+ 
  
  
 
