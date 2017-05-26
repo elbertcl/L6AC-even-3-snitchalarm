@@ -21,9 +21,6 @@ Computer Science Program<br>
 BINUS International<br>
 Jakarta<br>
 Snitch Alarm: A House Break-In Silent Alarm Using Raspberry Pi 3<br>
-Elbert Christopher Larosa - 1801442464<br>
-Jeremy Jodi - 181443536<br>
-Jessy Janlie - 1801443561<br>
  
  
 
@@ -152,7 +149,7 @@ There is no problem encountered in this week because our project’s progress fo
 Week 11: <br>
 There is no problem encountered in this week, the video taking is successful and the report’s progress is as planned.
  
-Jessy Janlie - 1801443561<br>
+<b>Jessy Janlie - 1801443561</b><br>
 Week 1: Since this is the first meeting of Pervasive computing, we have been asked to give a thought on what to make for our final project individually. I have been researching and found some really cool internet of things DIY projects, such as IoT bell door, IoT housekeeping, and other interesting projects. After I am assigned to be in a team with Elbert and Jeremy, we have discussed each of our own ideas and decided to make an IoT door project.<br>
 Week 2: Currently me and my team are still researching for the references and hardware required to make the silent alarm. We decided to use an Arduino Uno as our processor. As for this week, Elbert and I will start searching for a magnetic sensor component.<br>
 Week 3: In this week, we have discussed and finalized our group's concept, which is a house break in silent alarm system - A magnetic sensor placed behind the door would send a trigger, when opened, to the Arduino Uno which would then send an email notification to the user. We researched more about the 3 layers of framework and divided the task amongst the three of us. Also in continuation of last week, we are still searching for the required components. <br>
@@ -179,7 +176,7 @@ Week 10: We compiled our codes with no problem. But the message that are generat
 Week 11: There are a few problems and debate on how to execute our video, but the problems are minor (such as what we need to do on the scene) and we finished the video taking during the day.<br>
  
  
-Jeremy Jodi Widjaja - 1801443536<br>
+<b>Jeremy Jodi Widjaja - 1801443536</b><br>
 Week 1: On week 1, the group has not been decided, and each of us were tasked to think of an IoT project.<br>
 Week 2: This week the group has decided on using Arduino Uno and several add ons to work on our wifi alarm project. The group has decided to work on a silent magnetic door alarm that would send an email to the user. My individual responsibility was to find and purchase the Arduino Uno and PHPoC module.<br>
 Topic: House Break-in Silent Alarm<br>
