@@ -29,20 +29,20 @@ Jessy Janlie - 1801443561<br>
 
  
 
-<h1>PROJECT DESCRIPTION</h1>
+<h2>PROJECT DESCRIPTION</h2>
 Nowadays, the development of pervasive computing is proven to be beneficial in multiple sectors, which includes the security of properties and houses. The current setting is that people generally lock their doors and leave home, hoping that thieves do not attempt to break in their houses. The problem with it is that they are unable to know for a fact whether someone is actually breaking in their home when they are away. With pervasive computing, alarms can be sent to your phone regardless of your location, allowing any break in attempts to be recorded. 
 Burglars breaking in houses often get uncaught even when we report them to the police. This is due to several issues such as: we do not know when a burglar breaks in our house immediately, we do not know who opened the room, and crime rates would only increase until houses are equipped with security features which would help the capture of thieves.
 Thus, the solution that will be developed in this project is a silent alarm, called as Snitch Alarm,  that is going to be put on a door of the house, such that when a break-in happens, the alarm will give an email to the user notifying that the house's door has been opened. This allows the user to get to be notified of a break-in, even though the house is already locked, wherever the user may be. It is hoped that the Snitch Alarm will be able to tackle the current issue change the setting of the home security; making users able to know for a fact whether there is actually someone breaking into their houses. Further details regarding the features of Snitch Alarm are going to be explained in the How Does It Work? section.
  
  
-<h1>COMPONENTS REQUIRED</h1>
+<h2>COMPONENTS REQUIRED</h2>
 The components required for this project are as follows:<br>
 Raspberry Pi 3 (1 pc)<br>
 Magnetic sensor (1 pc)<br>
 Connecting wires (2 pcs)<br>
 Breadboard (1 pc)<br>
  
-<h1>HOW DOES IT WORK? </h1>
+<h2>HOW DOES IT WORK? </h2>
 Our program works by sending a notification to the user (house owner) should a stranger enters the house. Moreover, the system can also detect if the user is the one who opens the door, by using Bluetooth sensor detection.
  <br>
 First, we programed and compiled all of the required codes in the Raspberry Pi system. The Python code will be explained in detail in the later section. Next, we connect the Raspberry Pi into a Breadboard, which will be connected via cables into the magnetic sensors. The magnetic sensors are then attached to the user’s front house door. Please do keep in mind that the Raspberry Pi need to always be connected to the internet in order to function properly. 
@@ -57,7 +57,7 @@ From then on, the user can call the local security or his neighbor to help him c
  
  
 
-<h1>CIRCUIT DIAGRAM</h1>
+<h2>CIRCUIT DIAGRAM</h2>
 Connect the magnetic sensor to the Raspberry Pi as follows:<br>
 Pin 8 on the Magnetic Sensor to ground (#6 in our case) on the Raspberry Pi 3.<br>
 Pin 10 on the Magnetic Sensor to GPIO18 (#12) on the Raspberry Pi 3.<br>
@@ -70,7 +70,7 @@ Pin 10 on the Magnetic Sensor to GPIO18 (#12) on the Raspberry Pi 3.<br>
  
  
 
-<h1> INDIVIDUAL WEEKLY PROGRESS: </h1>
+<h2> INDIVIDUAL WEEKLY PROGRESS: </h2>
 <b>Elbert Christopher Larosa - 1801442464</b><br>
 Week 1: <br>
 In the first meeting, we are asked to think individually of ideas for the final project's topic. Initially, I got the general idea of using a sensor for detecting student coming into the class and thus being able to do absent from that sensor; an idea that is developed from a team that have been assembled together by ourselves at that time. Later on, the idea that I use change as the team is eventually predefined, in which the idea that is actually used is the home break-in silent alarm.
